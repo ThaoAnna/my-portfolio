@@ -7,7 +7,7 @@ const Projects: React.FC = () => {
 
       <div className="grid grid-cols-1 sm:grid-col-2 lg-grid-cols-3 gap-8">
         <div className="rounded-xl overflow-hidden shadow-md bg-white/10 backdrop-blur-md border boder-white/20 hover:scale-105 transition-transform">
-          <img alt="Project 1" className="w-full h-56 object-cover"></img>
+          <img alt="Project 1" className="w-80 h-80 object-cover"></img>
           <div className="p-4 text-center text-while">
             <h2 text-l font-semibold>
               Project 1
@@ -19,7 +19,7 @@ const Projects: React.FC = () => {
         </div>
 
         <div className="rounded-xl overflow-hidden shadow-md bg-white/10 backdrop-blur-md border border-white/20 hover:scale-105 transition-transform">
-          <img alt="Project 2" className="w-full h-56 object cover" />
+          <img alt="Project 2" className="w-80 h-80 object cover" />
           <div>
             <h2 className="text-l font-semibold">Project 2</h2>
             <p className="text-sm text-gray-200">
@@ -30,7 +30,7 @@ const Projects: React.FC = () => {
         </div>
 
         <div className="rounded-xl overfloe-hidden shadow-md bg-white/10 backdrop-blur-md border border-white/20 hover:scale-105 transition-transform">
-          <img alt="Project 3" className="w-full h-56 object-cover" />
+          <img alt="Project 3" className="w-80 h-80 object-cover" />
           <div>
             <h2 className="text-xl font-semibold">Project 3</h2>
             <p className="text-sm text-gray-200">

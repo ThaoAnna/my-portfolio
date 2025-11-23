@@ -9,17 +9,17 @@ const Navbar: React.FC = () => {
             <h1 className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-blue-500">Anna Thao</h1>
           </div>
           <div className="flex items-center gap-6 max-md:hidden">
-              <button className="inline-flex items-center gap-1 rounded-full bg-gray-950/2 px-2 py-1">
+              <button className="inline-flex items-center gap-1 rounded-full bg-gradient-to-r from-purple-200 to-blue-200 px-2 py-1">
                 <a href="#home" className="hover:text-purple-600">
                   Home
                 </a>
               </button>
-              <button className="inline-flex items-center gap-1 rounded-full bg-gray-950/2 px-2 py-1">
+              <button className="inline-flex items-center gap-1 rounded-full bg-gradient-to-r from-purple-200 to-blue-200 px-2 py-1">
                 <a href="#projects" className="hover:text-purple-600">
                   Projects
                 </a>
               </button>
-              <button className="inline-flex items-center gap-1 rounded-full bg-gray-950/2 px-2 py-1">
+              <button className="inline-flex items-center gap-1 rounded-full bg-gradient-to-r from-purple-200 to-blue-200 px-2 py-1">
                 <a href="#contact" className="hover:text-purple-600">
                   Contact
                 </a>
