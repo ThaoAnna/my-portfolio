@@ -5,7 +5,7 @@ import linkedinLogo from "../assets/linkedinLogo.png";
 
 const Contact: React.FC = () => {
   return (
-    <section id="contact" className="py-10 mt-15 max-w-5xl mx-auto text-center">
+    <section id="contact" className="py-5 mt-10 max-w-5xl mx-auto w-full text-center bg-gray-50">
       <div>
         <h2 className="text-xl md:text-2xl font-semibold bg-gradient-to-r from-[#7CCBFF] to-[#B6A9FF] bg-clip-text text-transparent mb-4 pb-8">
           If your're interested to work with me, just drop me in{" "}
